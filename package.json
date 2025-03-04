@@ -2,7 +2,7 @@
   "name": "sdv503-week3",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,10 +11,13 @@
     "url": "git+https://github.com/jamestwin/SDV503-Week3.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "James Twin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jamestwin/SDV503-Week3/issues"
   },
-  "homepage": "https://github.com/jamestwin/SDV503-Week3#readme"
+  "homepage": "https://github.com/jamestwin/SDV503-Week3#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
